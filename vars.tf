@@ -1,0 +1,11 @@
+variable "name" {}
+variable "env" {}
+variable "subnet_ids" {}
+variable "tags" {}
+variable "vpc_id" {}
+variable "port_no" {}
+variable "allow_db_cidr" {}
+variable "engine_version" {}
+variable "kms_arn" {}
+variable "instance_count" {}
+variable "instance_class" {}
